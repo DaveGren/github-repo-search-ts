@@ -1,2 +1,2 @@
-# github-repo-search-ts
+# GitHub Repo search TS
 The same app, but based on TypeScript

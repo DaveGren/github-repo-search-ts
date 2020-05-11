@@ -1,0 +1,7 @@
+{
+    "name": "git-hub-search-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "tsc script/script.ts"
+    }
+}
